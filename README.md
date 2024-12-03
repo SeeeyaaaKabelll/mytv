@@ -30,7 +30,3 @@
     <img src="https://img.shields.io/github/forks/guovin/iptv-api" />
   </a>
 </p>
-
-## 许可证
-
-[MIT](./LICENSE) License &copy; 2024-PRESENT [Govin](https://github.com/guovin)
